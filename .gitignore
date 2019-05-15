@@ -105,7 +105,9 @@ env.bak/
 venv.bak/
 .datmo
 .Trash-0
-
+clean.json
+new.csv
+new.json
 # Spyder project settings
 .spyderproject
 .spyproject
